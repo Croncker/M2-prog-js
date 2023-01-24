@@ -1,0 +1,21 @@
+body{
+    overflow: hidden;
+}
+
+h1{
+    position: absolute;
+    top: 150px;
+    left: 950px;
+    font-size: 70px;
+    font-family: sans-serif;
+    color: red;
+}
+
+h2{
+    position: absolute;
+    top: 300px;
+    left: 970px;
+    font-size: 25px;
+    font-family: sans-serif;
+    color: green;
+}
